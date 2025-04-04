@@ -2,3 +2,15 @@ body {
     padding: 0px;
     margin: 0px;
 }
+
+.center_child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 全屏 */
+.fill_screen {
+    width: 100vw;
+    height: 100vh;
+}
