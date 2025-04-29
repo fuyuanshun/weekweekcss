@@ -1,4 +1,14 @@
 .main_container {
-    width:600px;
-    height:400px;
+    width:419px;
+    height:483px;
+    border-radius: 5%;
+    box-shadow: 0px 25px 50px -12px rgb(0 0 0 / 0.25) ;
+}
+
+.logo_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 70px;
 }
